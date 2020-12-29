@@ -37,6 +37,7 @@
 
 #include "pcl_ros/transforms.h"
 #include "pcl_ros/filters/filter.h"
+#include <boost/bind.hpp>
 
 /*//#include <pcl/filters/pixel_grid.h>
 //#include <pcl/filters/filter_dimension.h>

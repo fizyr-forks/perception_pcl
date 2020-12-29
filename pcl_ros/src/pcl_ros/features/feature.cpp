@@ -48,6 +48,7 @@
 //#include "principal_curvatures.cpp"
 //#include "vfh.cpp"
 #include "pcl_ros/features/feature.h"
+#include <boost/bind.hpp>
 
 ////////////////////////////////////////////////////////////////////////////////////////////
 void

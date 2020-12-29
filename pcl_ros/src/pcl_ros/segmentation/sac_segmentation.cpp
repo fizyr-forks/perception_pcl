@@ -39,6 +39,7 @@
 #include "pcl_ros/segmentation/sac_segmentation.h"
 
 #include <pcl_conversions/pcl_conversions.h>
+#include <boost/bind.hpp>
 
 using pcl_conversions::fromPCL;
 

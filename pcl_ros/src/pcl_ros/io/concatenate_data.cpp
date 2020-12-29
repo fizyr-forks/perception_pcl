@@ -40,6 +40,7 @@
 #include "pcl_ros/io/concatenate_data.h"
 
 #include <pcl_conversions/pcl_conversions.h>
+#include <boost/bind.hpp>
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 void

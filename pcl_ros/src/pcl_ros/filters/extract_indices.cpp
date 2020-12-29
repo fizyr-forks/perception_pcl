@@ -37,6 +37,7 @@
 
 #include <pluginlib/class_list_macros.h>
 #include "pcl_ros/filters/extract_indices.h"
+#include <boost/bind.hpp>
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 bool 

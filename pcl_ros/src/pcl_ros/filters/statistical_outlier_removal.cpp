@@ -37,6 +37,7 @@
 
 #include <pluginlib/class_list_macros.h>
 #include "pcl_ros/filters/statistical_outlier_removal.h"
+#include <boost/bind.hpp>
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 bool

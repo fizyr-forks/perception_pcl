@@ -40,6 +40,7 @@
 #include "pcl_ros/segmentation/extract_clusters.h"
 
 #include <pcl_conversions/pcl_conversions.h>
+#include <boost/bind.hpp>
 
 using pcl_conversions::fromPCL;
 using pcl_conversions::moveFromPCL;

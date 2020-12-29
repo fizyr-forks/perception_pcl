@@ -40,6 +40,7 @@
 #include "pcl_ros/segmentation/extract_polygonal_prism_data.h"
 
 #include <pcl_conversions/pcl_conversions.h>
+#include <boost/bind.hpp>
 
 using pcl_conversions::moveFromPCL;
 using pcl_conversions::moveToPCL;
